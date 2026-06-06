@@ -1,0 +1,32 @@
+[33mcommit e102b5613fc6ea385ece9fac721e1ecb833579fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sonam Dorji <sonamdorji253@gmail.com>
+Date:   Wed Jun 3 14:45:18 2026 +0600
+
+    I just added few line of text in code
+
+[33mcommit c85c47f87846889bf53bd760debccd2619a65a95[m
+Author: Sonam Dorji <sonamdorji253@gmail.com>
+Date:   Wed Jun 3 14:32:57 2026 +0600
+
+    Initial commit
+
+[33mcommit 9e98a4aa712d1d9695a77193832373e1cfb1463d[m
+Merge: 712b6f8 3fb36fa
+Author: Son-am <113518255+Son-am@users.noreply.github.com>
+Date:   Wed Jun 3 13:48:31 2026 +0600
+
+    Merge pull request #1 from Son-am/cloudflare/workers-autoconfig
+    
+    Add Cloudflare Workers configuration
+
+[33mcommit 3fb36fac41d41f977eaefcab8c509853de4a8a4c[m
+Author: cloudflare-workers-and-pages[bot] <73139402+cloudflare-workers-and-pages[bot]@users.noreply.github.com>
+Date:   Wed Jun 3 07:45:45 2026 +0000
+
+    Add Cloudflare Workers configuration
+
+[33mcommit 712b6f8ad37eb23ffbeffe9c52edecc69be254e4[m
+Author: Son-am <113518255+Son-am@users.noreply.github.com>
+Date:   Wed Jun 3 13:19:10 2026 +0600
+
+    Add files via upload

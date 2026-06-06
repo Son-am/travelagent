@@ -2,3 +2,46 @@
     margin:0%;
     padding:0%;
 }
+body{
+    margin: 0;
+    padding-top: 80px; /* prevent content from hiding under header */
+    background-color: black;
+}
+.header{
+    background-color: burlywood;
+    position:fixed;
+    top: 0;          /* stick to top */
+    left: 0;         /* stick to left */
+    width: 100%;  /* ensures it stretches across the entire page.*/
+    z-index: index 1000; /*keep it above all the content*/
+    
+}
+
+.hletter{
+    background-color: blueviolet;
+    margin-right: 1000px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 15px;   /* adjust to your preferred size */
+    font-weight: bold; /* optional, keeps it strong */
+}
+.logo {
+    height: 20px;   /* sets the image height */
+    width: auto;    /* keeps the aspect ratio */
+    vertical-align: middle; /* aligns with text */
+    margin-right: 8px; /* optional spacing */
+  }
+.menu {
+    display: flex;        /* arrange items horizontally */
+    gap: 40px;
+    margin-left: 500px; 
+    margin-right: 410px;
+    margin-top: -26px;
+    padding-left:30px ;
+    padding-bottom: 8px;
+    background-color: aqua;  
+}
