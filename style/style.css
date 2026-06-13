@@ -52,3 +52,12 @@ h1 {
 .gallary{
     background-color: aqua;
 }
+
+footer{
+    background-color: bisque;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    left: 0;           /* align to left edge */
+    width: 100%;       /* span full width */
+}
